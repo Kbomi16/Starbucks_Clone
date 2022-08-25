@@ -39,3 +39,6 @@ gsap.to(요소, 지속시간, 옵션);
 <link rel="stylesheet" href="https://unpkg.com/swiper@6.8.4/swiper-bundle.min.css" />
   <script src="https://unpkg.com/swiper@6.8.4/swiper-bundle.min.js"></script>
 ```
+
+### 유튜브 영상 넣기
+✏️ https://developers.google.com/youtube/iframe_api_reference?hl=ko
